@@ -1,0 +1,24 @@
+{
+    "name": "apps4every/extend_database",
+    "description": "Extend your models and tables definition",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Apps4every\\ExtendDatabase\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Miguel Angel Cabrero"
+        }
+    ],
+    "require": {},
+    "extra": {
+      "laravel": {
+        "providers": [
+          "Apps4every\\ExtendDatabase\\ExtendDatabaseServiceProvider"
+        ]
+      }
+    },
+    "minimum-stability": "stable"
+}
