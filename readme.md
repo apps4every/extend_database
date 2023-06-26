@@ -75,3 +75,8 @@ The Apps4Every packages are open-sourced software licensed under the [MIT licens
 
 - Visit our web [Apps4Every](https://www.apps4every.com)
 - Visit our youtube channel [Apps4Every](https://www.youtube.com/@apps4every256)
+
+## TO DO
+Automatically generate basic Laravel validation rules based on your database table schema!
+
+Example: https://github.com/laracraft-tech/laravel-schema-rules
